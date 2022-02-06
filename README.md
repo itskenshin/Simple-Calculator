@@ -5,7 +5,8 @@
 <br />
 Este repositorio contiene código fuente y consignas a realizar en C# 
 <br />
-
+# Características
+Funcionalidad de calculadora estándar que ofrece operaciones básicas y evalúa los comandos inmediatamente a medida que se ingresan.
 
 <br />
 Documentacion:
