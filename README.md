@@ -7,11 +7,10 @@ Este repositorio contiene código fuente y consignas a realizar en C#
 <br />
 # Características
 Funcionalidad de calculadora estándar que ofrece operaciones básicas y evalúa los comandos inmediatamente a medida que se ingresan.
-
+<br />
 <br />
 Documentacion:
-
-
+<br />
 <br />
 
 Se utilizo un Algoritmo parecido a la funcion Eval lo cual evalua codigo ya sea operaciones Aritmetica representado como Strings.
