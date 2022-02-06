@@ -14,4 +14,5 @@ Documentacion:
 <br />
 
 Se utilizo un Algoritmo parecido a la funcion Eval lo cual evalua codigo ya sea operaciones Aritmetica representado como Strings.
+<br />
 ![2022-02-05 21_54_22-Calculadora1 - Microsoft Visual Studio](https://user-images.githubusercontent.com/71537694/152665112-034fed5b-9251-4b67-a9eb-5805547b3a98.png)
