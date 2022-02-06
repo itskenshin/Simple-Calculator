@@ -8,8 +8,10 @@ Este repositorio contiene código fuente y consignas a realizar en C#
 <br />
 Características:
 <br /><br />
-Funcionalidad de calculadora estándar que ofrece operaciones básicas y 
+* Funcionalidad de calculadora estándar que ofrece operaciones básicas y 
 evalúa los comandos inmediatamente a medida que se ingresan.
+* DarkMode-LightMode.
+
 <br />
 <br />
 Documentacion:
